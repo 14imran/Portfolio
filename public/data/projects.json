@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Full Stack E-Commerce Website",
+    "image": "projects/easymailer.png",
+    "link": "https://github.com/14imran/nike-clone-frontend",
+    "liveLink": "https://nike-clone-frontend-seven.vercel.app",
+    "about": "This project serves as a testament to my proficiency in utilizing modern web development technologies like Next.js 13, Tailwind CSS, Strapi CMS, and Redux to create high-performance, feature-rich e-commerce applications that meet the demands of today's digital landscape.",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "Strapi Cms",
+      "Html",
+      "Javascript",
+      "mongodb"
+    ]
+  },
+  {
+    "name": "Music Streaming Application",
+    "image": "projects/links-park.png",
+    "link": "https://github.com/14imran/Music-App",
+    "liveLink": "https://music-app-eta-five.vercel.app/",
+    "about": "The Musica Application is a sleek, high-performance music streaming app built using the latest web technologies: React.js for the frontend framework, Vite for blazing-fast build tool and development environment, and Tailwind CSS for modern, utility-first styling.",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "framer-motion",
+      "prisma",
+      "drizzle",
+      "mantine",
+      "radix UI",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Moviex",
+    "image": "projects/cd.png",
+    "link": "https://github.com/14imran/Moviex",
+    "liveLink": "https://moviex-gilt-chi.vercel.app/",
+    "about": "Moviex - It is froentend application which makes user to select movie.",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "framer-motion",
+      "prisma",
+      "mantine",
+      "Scss"
+    ]
+  },
+  {
+    "name": "Christmas-Wishes",
+    "image": "projects/an.png",
+    "link": "https://github.com/14imran/Christmas-Wishes",
+    "liveLink": "https://christmas-wishesx.vercel.app/",
+    "about": "Christmas Wishes - It helps user to create a christmas wishing card of their like and share it to their friends and family ",
+    "builtWith": [
+      "nextjs 13",
+      "react",
+      "tailwindcss",
+      "TypeScript",
+      "shadcn/ui",
+      "prisma",
+      "mongodb"
+    ]
+  }
+
+]
